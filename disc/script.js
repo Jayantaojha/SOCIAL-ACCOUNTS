@@ -20,7 +20,7 @@ gmail.addEventListener('click', () => {
 
 
 twitter.addEventListener('click', () => {
-    window.open('https://twitter.com/jayantaojha172', '_blank');
+    window.open('https://x.com/_jayanta_ojha', '_blank');
 })
 
 
