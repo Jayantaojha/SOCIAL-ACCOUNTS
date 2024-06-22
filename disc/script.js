@@ -15,7 +15,7 @@ const telegram = document.querySelector('#telegram');
 
 
 gmail.addEventListener('click', () => {
-    alert('Gmail ID:   jayantaojha686@gmail.com');
+    alert('Gmail ID:        jayantaojha686@gmail.com');
 })
 
 
@@ -30,7 +30,7 @@ github.addEventListener('click', () => {
 
 
 skype.addEventListener('click', () => {
-    window.open('https://join.skype.com/invite/qGVUDjzz6drF', '_blank');
+    alert('Skype Email Id:      jayanta.ojha@outlook.com');
 })
 
 
@@ -50,7 +50,7 @@ youtube2.addEventListener('click', () => {
 
 
 whatsapp.addEventListener('click', () => {
-    window.open('https://whatsapp.com/channel/0029VaJISNXJpe8juUnWhF1J', '_black');
+    window.open('https://whatsapp.com/channel/0029VaYdtLlFSAtCGW2Sc80m', '_black');
 })
 
 
